@@ -1,4 +1,4 @@
-﻿# rn-assignment4-11332199
+﻿# rn-assignment4-11293722
  Project README
 This project consists of two React Native components: Home and LoginIn. Below is a detailed explanation of each component, their functionality, and the components used within them.
 
@@ -65,10 +65,7 @@ Clone the repository.
 Install dependencies (npm install or yarn install).
 Start the application (npm start or yarn start).
 
-![login Screen](https://github.com/bigslime911/rn-assignment4-11332199/assets/145637377/41d747e5-0905-469f-a8eb-a3b1eef22ad0)
 
+![alt text](<sign up.jpg>)
 
-![HomePage Screen](https://github.com/bigslime911/rn-assignment4-11332199/assets/145637377/fbc98805-83e2-472a-a75e-d870a0bfc068)
-
-
-
+![alt text](<job page.jpg>)
