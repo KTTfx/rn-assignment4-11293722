@@ -1,4 +1,4 @@
- const FeatureJobsMockUp =[
+const FeatureJobsMockUp =[
     {
         id: 0,
         backgroundColor : '#1679AB',
