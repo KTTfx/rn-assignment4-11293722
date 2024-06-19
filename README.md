@@ -1,6 +1,4 @@
 # rn-assignment4-11293722
-
-# rn-assignment4-11293722
  
  Project README
 This project consists of two React Native components: Home and LoginIn. Below is a detailed explanation of each component, their functionality, and the components used within them.
