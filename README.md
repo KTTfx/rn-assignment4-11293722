@@ -69,6 +69,6 @@ Install dependencies (npm install or yarn install).
 Start the application (npm start or yarn start).
 
 
-![alt text](<sign up.jpg>)
+![alt text](<./MyApp/sign up.jpg>)
 
-![alt text](<job page.jpg>)
+![alt text](<./MyApp/job page.jpg>)
